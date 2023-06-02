@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hello There! 👋 I'm Juan Antonio Pagés
 
-<!--
-**zerebritvs/zerebritvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a Computer Engineering student specializing in Information Technologies. Here you'll find some details about the languages I use, my skills, and how you can reach me.
 
-Here are some ideas to get you started:
+## Languages and Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Frontend**: HTML, CSS, JavaScript, React
+- **Backend**: Node.js, Python
+- Other Languages: Java, C, C++
+- **Databases**: MySQL
+- **Version Control**: Git, GitHub
+
+## Contact
+
+I'd love to connect with you! You can find me on:
+
+- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/juan-antonio-pag%C3%A9s-l%C3%B3pez)
+
+If you're interested in collaborating on a project or just want to chat about software development, feel free to get in touch.
+
+Thanks for visiting my profile! I hope you find my projects and contributions interesting.
+
