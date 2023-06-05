@@ -1,5 +1,5 @@
 <h1 align="center">Hello There 👋, I'm Juan Antonio Pagés</h1>
-<h3 align="center">A passionate Computer Engineering student specializing in Information Technologies</h3>
+Welcome to my GitHub profile! I'm a passionate Computer Engineering student specializing in Information Technologies. Here you'll find some details about the languages I use, my skills, and how you can reach me.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
